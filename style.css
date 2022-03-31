@@ -4,13 +4,26 @@
 }
 
 body{
-    background-color: bisque
+    background-color: #a58686;
 }
 
 header{
-    background-color: tan
+    background-color: silver;
 }
 img{
     length: 100px;
     width: 100px;
+     background-color: green;
 }
+
+.one{
+    background-color: #64b0a7;
+}
+.two{
+    background-color: white;
+}
+
+ .pic{
+     background-color: green;
+ }
+     
